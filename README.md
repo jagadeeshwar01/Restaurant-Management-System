@@ -38,27 +38,37 @@ cannot be changed.
 IV. The use of heavy weight causes no flexibility So I preferred
 swing. I used the following swing component in the project I
 developed.
+
 1.JFrame: It is an extended version of java.awtframe that adds
 support for the swing component architecture.
+
 2.JPanel: The JPanel is a simplest container class. It provides
 space in which an application can attach any other
 component. It inherits the JComponents class.
+
 3.JTabbedPane: The JTabbedPane class is used to switch
 between a group of components by clicking on a tab with a
 given title or icon. It inherits JComponent class.
+
 4.JButton: It is an implementation of push button.
+
 5.JLabel: It is a display area for a short text string or an image
 or both.
+
 6.JTextfeild: It is a light weight component which allows the
 editing of a single line or text.
+
 7.JOptionpane: It makes it easy to pop up a standard dialog box
 that prompts users for a value or informs them of something.
 Uses:
+
 • It is used to reduce errors in calculation of bill. It increases the
 efficiency of the order taking and billing system of the
 restaurant.
+
 • Very important to manage rush of customers at the billing
 counter.
+
 • Customers themselves can use this management system, as
 they can see the all the items present in the restaurant, and
 order dishes of their wish and generate bill by themselves
